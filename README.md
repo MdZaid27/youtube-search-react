@@ -34,4 +34,4 @@ module.exports = API_KEY;
 
 ## Idea
 
-* The idea was taken from Stephen Grider React.js course, then i tried to styled the app to make it more real like Youtube, so thanks to Stephen! 
+* The idea was taken from Stephen Grider React.js course, then i tried to style the app to make it more real like Youtube, so thanks to Stephen! 
